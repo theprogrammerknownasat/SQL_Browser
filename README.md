@@ -16,5 +16,5 @@ in before closing the program.
 3. Build the executable yourself. To do this run `pip install pymysql PyQt5 cx_Freeze` and then `python main.py build`. After you do that, go the the 
 build folder and run the executable.
 
-4. Seek help from the allknowing wizard and rewrite the program yourself (by copying it if you are a real programmer) and then find a way to compilt it into a
-diferent language like C. After you do that, cry because C is slower than python.
+4. Seek help from the allknowing wizard and rewrite the program yourself (by copying it if you are a real programmer) and then find a way to compile it into a
+different language like C. After you do that, cry because C is slower than python.
