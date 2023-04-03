@@ -9,7 +9,7 @@ it when I add the 3 so I did not include it in the examples. If these commands d
 
 1. Run with python. To do this run `pip install pymysql PyQt5` and then `python main.py`
 
-2. Download prebuilt relese (windows only). To do this go to releses and download the zip file with your os name. Unzip the file and run the main executable.
+2. Download prebuilt release (windows only). To do this go to releases and download the zip file with your os name. Unzip the file and run the main executable.
 
 3. Build the executable yourself. To do this run `pip install pymysql PyQt5 cx_Freeze` and then `python main.py build`. After you do that, go the the 
 build folder and run the executable.
