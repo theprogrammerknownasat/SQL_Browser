@@ -17,4 +17,4 @@ in before closing the program.
 build folder and run the executable.
 
 4. Seek help from the allknowing wizard and rewrite the program yourself (by copying it if you are a real programmer) and then find a way to compile it into a
-different language like C. After you do that, cry because C is slower than python.
+different language like C++. After you do that, cry because C++ is slower than python.
